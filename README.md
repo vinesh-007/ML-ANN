@@ -1,4 +1,4 @@
-#Machine Learning Model Development
+# Machine Learning Model Development
 This project focuses on building and evaluating multiple machine learning models to analyze structured data and predict patterns. The models implemented include Logistic Regression, Support Vector Classifier (SVC), Naïve Bayes, Decision Tree, Random Forest, and an Artificial Neural Network (ANN) using TensorFlow and Keras.
 
 Key Aspects of This Project:
